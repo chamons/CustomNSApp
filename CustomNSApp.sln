@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomNSApp", "CustomNSApp.csproj", "{522DD5D8-1A37-4660-90A0-78FBB37B0F97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{522DD5D8-1A37-4660-90A0-78FBB37B0F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522DD5D8-1A37-4660-90A0-78FBB37B0F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522DD5D8-1A37-4660-90A0-78FBB37B0F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522DD5D8-1A37-4660-90A0-78FBB37B0F97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E39FB294-6A3D-4225-9692-E13CF3483193}
+	EndGlobalSection
+EndGlobal
